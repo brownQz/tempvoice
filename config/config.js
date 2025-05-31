@@ -1,6 +1,6 @@
 export default {
-  label: 'Jevenchy',
+  label: 'Knowledge Hunter',
   embedcode: '#2f3136',
-  language: 'en',
+  language: 'vi',
   log: true
 }
